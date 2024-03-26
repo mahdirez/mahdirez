@@ -4,16 +4,12 @@ Hi 👋 My name is Mahdi Rezaei
 Frontend Developer
 ------------------
 
-<div>
-<p align="left">
    i am a front developer who loves react
 
 * 🌍  I'm based in tehran
 * ✉️  You can contact me at [truemahdirezaei@gmail.com](mailto:truemahdirezaei@gmail.com)
 * 🧠  I'm learning Technologies about web
-</p>
-<img align="right" style="width:450px "  src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="">
-</div>
+
 
    
 
