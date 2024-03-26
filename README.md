@@ -36,4 +36,4 @@ i am a front developer who loves react
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdirez&hide=javascript,css,scss,html&theme=tokyonight)
