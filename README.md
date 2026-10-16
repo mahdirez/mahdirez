@@ -8,9 +8,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/mahdirez">
-    <img src="https://komarev.com/ghpvc/?username=mahdirez&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
   <a href="https://github.com/mahdirez?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-21262d?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
@@ -66,16 +63,6 @@ I enjoy turning ideas into functional products, solving engineering problems, an
 <br />
 
 <img src="https://streak-stats.demolab.com?user=mahdirez&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `$ contribution-graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdirez&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
